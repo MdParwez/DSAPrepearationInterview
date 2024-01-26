@@ -1,3 +1,4 @@
+# All 3day  complete Questions and Answers of upgrad DSA  and Sql Prep
 #this repo contains practice question of upgradprepdsa
 ## Day 1 all DSA and answers by questions name
 ## Day2 all  SQL question in "one file" and DSA questions are seperated 
